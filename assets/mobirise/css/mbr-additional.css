@@ -1814,10 +1814,10 @@ body {
   padding: .5rem;
 }
 .cid-rlZp89KcoB .nav-tabs .nav-link {
-  color: #ffffff;
+  color: #000000;
   font-style: normal;
   font-weight: 500;
-  border: 1px solid #ffffff;
+  border: 1px solid #000000;
   transition: all .5s;
 }
 .cid-rlZp89KcoB .nav-tabs .nav-link:hover {
@@ -1839,6 +1839,12 @@ body {
 }
 .cid-rlZp89KcoB .mbr-text {
   text-align: center;
+}
+.cid-rlZp89KcoB H2 {
+  color: #000000;
+}
+.cid-rlZp89KcoB P {
+  color: #000000;
 }
 .cid-rm0yiTOMxO {
   padding-top: 30px;
